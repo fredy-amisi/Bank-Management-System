@@ -1,8 +1,10 @@
 {
-  "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
-  },
+"Header": {
+  "title": "Welcome to Our Bank Management System",
+  "paragraph": "Take control of your financial operations effortlessly. Manage accounts, transactions, loans, and investments securely with our comprehensive banking management system."
+}
+
+,
   "About": {
     "paragraph": "Welcome to our cutting-edge Banking Management System, designed to streamline your financial operations with ease and security. Our platform offers a wide range of services, including account management, seamless funds transfers, bill payments, loan management, and robust customer support. With advanced security features and user-friendly interfaces, we ensure your banking experience is efficient and hassle-free. Join us to manage your finances smarter, faster, and more securely.",
     "Why": [
