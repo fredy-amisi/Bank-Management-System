@@ -4,131 +4,132 @@
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Welcome to our cutting-edge Banking Management System, designed to streamline your financial operations with ease and security. Our platform offers a wide range of services, including account management, seamless funds transfers, bill payments, loan management, and robust customer support. With advanced security features and user-friendly interfaces, we ensure your banking experience is efficient and hassle-free. Join us to manage your finances smarter, faster, and more securely.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Secure, intuitive, and reliable services.",
+      "Efficiency with a personal touch.",
+      "Innovative solutions for financial management"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "our partner in financial success.",
+      "Trusted by thousands for excellence"
+
+      
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Mobile Banking Solutions",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Agent Banking Networks",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Digital Payment Platforms",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Financial Inclusion Initiatives",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Blockchain and Fintech Integration",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Customer Service Enhancements",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Green Banking Initiatives",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "E-commerce and Payment Gateway Integration",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Corporate Social Responsibility (CSR) Programs",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
-  "Services": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
+"Services": [
+  {
+    "icon": "fa fa-piggy-bank",
+    "name": "Savings Accounts",
+    "text": "Save, earn, and grow with our competitive Savings Account options."
+  },
+  {
+    "icon": "fa fa-mobile",
+    "name": "Mobile Banking",
+    "text": "Convenient mobile banking solutions tailored to your everyday financial needs"
+  },
+  {
+    "icon": "fa fa-money",
+    "name": "Loans and Credit",
+    "text": "Secure loans designed to meet your personal and business aspirations."
+  },
+  {
+    "icon": "fa fa-globe",
+    "name": "Internet Banking",
+    "text": "Manage your finances seamlessly with our intuitive internet banking services."
+  },
+  {
+    "icon": "fa fa-line-chart",
+    "name": "Investment Services",
+    "text": "Invest wisely with our diverse range of investment opportunities available."
+  },
+  {
+    "icon": "fa fa-shield",
+    "name": "Insurance Services",
+    "text": "Protect what matters most with our reliable insurance coverage plans."
+  }
+],
+
+"Testimonials": [
+  {
+    "img": "img/testimonials/01.jpg",
+    "text": "\"Managing our financial operations has never been easier. The banking management system provided seamless account management and transaction processing.\"",
+    "name": "Fred Amisi"
+  },
+  {
+    "img": "img/testimonials/02.jpg",
+    "text": "\"The internet banking feature is incredibly intuitive. I can manage my finances securely from anywhere, thanks to this banking management system.\"",
+    "name": "Esther Mwongeli"
+  },
+  {
+    "img": "img/testimonials/03.jpg",
+    "text": "\"With the loan management tools, I efficiently track my repayments and plan for future investments. This banking system has transformed my financial planning.\"",
+    "name": "Abdalla Hamara"
+  },
+  {
+    "img": "img/testimonials/04.jpg",
+    "text": "\"The investment services provided by this banking system are diverse and reliable, helping me grow my portfolio with confidence.\"",
+    "name": "Harry"
+  },
+  {
+    "img": "img/testimonials/05.jpg",
+    "text": "\"I feel secure knowing that my transactions are protected by advanced security features. This banking management system prioritizes my financial safety.\"",
+    "name": "Winnie"
+  },
+  {
+    "img": "img/testimonials/06.jpg",
+    "text": "\"The customer service offered is exceptional. I receive prompt assistance whenever I need help navigating the banking management system.\"",
+    "name": "SHerlie"
+  }
+]
+,
   "Team": [
     {
       "img": "img/team/01.jpg",
@@ -152,9 +153,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Mombasa Kenya ",
+    "phone": "+254 113918190",
+    "email": "amisifredy20@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +163,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Account Management",
+      "text": "Effortlessly manage your finances with our comprehensive Account Management service. Open new accounts, view transaction history, and stay on top of your balance, all in one secure and user-friendly platform."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Funds Transfer",
+      "text": "Experience seamless and secure Funds Transfer with our banking system. Easily transfer money internally or to external accounts, set up scheduled transfers, and manage your finances with confidence."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Bill Payments",
+      "text": "Streamline your finances with our Bill Payments service. Pay utility bills, loan installments, and credit card bills quickly and securely, all from one convenient platform"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Loan Management",
+      "text": "Take control of your borrowing with our Loan Management service. Easily apply for loans, track repayments, and manage interest rates, all in one integrated system"
     }
   ]
 }
